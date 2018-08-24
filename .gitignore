@@ -1,3 +1,4 @@
+# 下面的内容git上面不会提交。
 .DS_Store
 node_modules/
 npm-debug.log*
